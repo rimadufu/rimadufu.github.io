@@ -1,0 +1,20 @@
+p {
+	color: blue;
+padding: 5pt;
+	margin:10pt;
+}
+
+h1 {
+	color: yellowgreen;
+
+}
+h2 {
+color: orange;
+}
+
+body {
+	max-width: 800px; 
+	
+	margin: 0 auto;
+	
+}
